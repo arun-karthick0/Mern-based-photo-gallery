@@ -1,0 +1,11 @@
+.button {
+  font-size: 2rem;
+}
+
+.button .circle {
+  position: absolute;
+  color: blue;
+  bottom: 5%;
+  right: 5%;
+  font-size: 4rem;
+}
